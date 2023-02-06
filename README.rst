@@ -17,7 +17,7 @@ This is a template for creating new python library. Here are some descriptions!
 
 **Documentation**: https://mypythonlibrary.readthedocs.io
 
-**Repository**: https://github.com/terrencetec/mypythonlibrary
+**Repository**: https://github.com/lamyc/mypythonlibrary
 
 .. contents::
    :depth: 2
@@ -65,7 +65,7 @@ Install from source
 
 .. code:: bash
 
-   git clone https://github.com/terrencetec/mypythonlibrary.git
+   git clone https://github.com/lamyc/mypythonlibrary.git
    cd mypythonlibrary
    pip install .
 
