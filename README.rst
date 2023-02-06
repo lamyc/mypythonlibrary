@@ -130,15 +130,15 @@ Open index.html with a browser (if this was set as the first page).
 
 .. |logo| image:: docs/source/_static/logo.svg
     :alt: Logo
-    :target: https://github.com/terrencetec/mypythonlibrary
+    :target: https://github.com/lamyc/mypythonlibrary
 
 .. |website| image:: https://img.shields.io/badge/website-mypythonlibrary-blue.svg
     :alt: Website
-    :target: https://github.com/terrencetec/mypythonlibrary
+    :target: https://github.com/lamyc/mypythonlibrary
 
 .. |release| image:: https://img.shields.io/github/v/release/terrencetec/mypythonlibrary?include_prereleases
    :alt: Release
-   :target: https://github.com/terrencetec/mypythonlibrary/releases
+   :target: https://github.com/lamyc/mypythonlibrary/releases
 
 .. |rtd| image:: https://readthedocs.org/projects/mypythonlibrary/badge/?version=latest
    :alt: Read the Docs
@@ -146,12 +146,12 @@ Open index.html with a browser (if this was set as the first page).
 
 .. |license| image:: https://img.shields.io/github/license/terrencetec/mypythonlibrary
     :alt: License
-    :target: https://github.com/terrencetec/mypythonlibrary/blob/master/LICENSE
+    :target: https://github.com/lamyc/mypythonlibrary/blob/master/LICENSE
 
 .. |travis-ci| image:: https://travis-ci.com/terrencetec/mypythonlibrary.svg?branch=master
     :alt: travis-ci
-    :target: https://travis-ci.com/terrencetec/mypythonlibrary
+    :target: https://travis-ci.com/lamyc/mypythonlibrary
 
 .. |codecov| image:: https://codecov.io/gh/terrencetec/mypythonlibrary/branch/master/graph/badge.svg?token=NMEBAYFE2N
     :alt: codecov
-    :target: https://codecov.io/gh/terrencetec/mypythonlibrary
+    :target: https://codecov.io/gh/lamyc/mypythonlibrary
